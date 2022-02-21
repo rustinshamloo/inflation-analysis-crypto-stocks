@@ -1,1 +1,1 @@
-# inflation-analysis-crypto-stocks
+# DSCI 510 Project - Inflation Analysis
